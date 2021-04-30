@@ -3,7 +3,7 @@
 ### Sobre mí
 
 
-Soy Científoco Marino por la Universidad de Alicante, con pasión por el mundo de la análitica. Actualmente me hallo centrado en el **análisis estadístico** para servir de mejor manera a las empresas a **tomar decisiones** en base a los **datos**. Trabajo fundamentalmente con **Python** y **R**. Así como otros programas enfocados a la **comunicación y al periodismo de los datos**.
+Soy Científico Marino por la Universidad de Alicante, con pasión por el mundo de la análitica. Actualmente me encuentro centrado en el **análisis estadístico** para servir de mejor manera a las empresas a **tomar decisiones** en base a los **datos**. Trabajo fundamentalmente con **Python** y **R**. Así como otros programas enfocados a la **comunicación y al periodismo de los datos**.
 <br>
 
 🚀 **Habilidades:** PYTHON/ R/ OFFICE365 
