@@ -1,7 +1,7 @@
 # 👋 Hi, there!
 
 
-![Imagen](github.com/StatisticsWithJIMP/PRUEBA/blob/main/Card_reshape.png)
+![Imagen](https://github.com/StatisticsWithJIMP/PRUEBA/blob/main/Card_reshape.png)
 I’m @StatisticsWithJIMP
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
