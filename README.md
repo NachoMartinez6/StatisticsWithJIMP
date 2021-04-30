@@ -1,4 +1,4 @@
-# Hola Mundo! 👋, 
+# Hola Mundo! 👋
 <!---## Mi nombre es ✨**JOSÉ IGNACIO**✨--->
 ### Sobre mí
 
