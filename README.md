@@ -1,13 +1,14 @@
 # Hola Mundo! 👋, 
 ## Mi nombre es ✨**JOSÉ IGNACIO**✨
 ### Sobre mí
-<br>
-Actualmente estoy centrado en el **análisis estadístico** para servir de mejor manera a la empresa a **tomar decisiones** en base a los **datos**. Trabajo fundamentalmente con Python y R. Así como otros programas enfocados a la comunicación y al periodismo de los datos.
 
+
+Actualmente estoy centrado en el **análisis estadístico** para servir de mejor manera a la empresa a **tomar decisiones** en base a los **datos**. Trabajo fundamentalmente con Python y R. Así como otros programas enfocados a la comunicación y al periodismo de los datos.
+<br>
 
 🚀 Habilidades: PYTHON/ R/ OFFICE365 
 
-
+<br>
 - 🔭 Estoy trabajando en la **limpieza y exploración de los datos** para garantizar la **calidad del dato** en proyectos estadísticos. 
 - 🌱 Estoy aprendiendo: Analisis de datos, contraste de hipótesis, modelos predictivos... 
 - 👯 Quiero colaborar con empresas para **encontrar soluciones** a través del **análisis estadístico**. 
