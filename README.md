@@ -9,7 +9,7 @@ Soy Científico Marino por la Universidad de Alicante, con pasión por el mundo 
 🚀 **Habilidades:** PYTHON/ R/ OFFICE365 
 <br>
 - 🔭 Estoy trabajando en la **limpieza y exploración de los datos** para garantizar la **calidad del dato** en proyectos análiticos. 
-- 🌱 Actualmente aprendiendo: **Analisis de datos, contraste de hipótesis, modelos predictivos... **
+- 🌱 Actualmente aprendiendo: **Analisis de datos, contraste de hipótesis, modelos predictivos...**
 - 👯 Quiero colaborar con empresas para **generar valor** a través del **dato**. 
 - 📫 Cómo contactarme: nachomart6@gmail.com 
 <br>
