@@ -1,8 +1,4 @@
 # Hola Mundo! 👋, 
-
-<!---![Imagen](https://github.com/StatisticsWithJIMP/PRUEBA/blob/main/Jos%C3%A9%20Ignacio%20Mart%C3%ADnez.png)--->
-![Imagen](https://drive.google.com/file/d/1WA136aNcVZOiTN-saFbrOHCoTIJ80H8L/view?usp=sharing)
-https://www.canva.com/design/DAEdH_3GR4A/share/preview?token=pG2sakDktr6_k_vY-Jrshg&role=EDITOR&utm_content=DAEdH_3GR4A&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 <!---## Mi nombre es ✨**JOSÉ IGNACIO**✨--->
 ### Sobre mí
 
