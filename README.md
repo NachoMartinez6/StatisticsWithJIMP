@@ -1,5 +1,7 @@
 # Hola Mundo! 👋, 
-## Mi nombre es ✨**JOSÉ IGNACIO**✨
+
+[Bunner](https://github.com/StatisticsWithJIMP/PRUEBA/blob/main/Jos%C3%A9%20Ignacio%20Mart%C3%ADnez.png)
+<!---## Mi nombre es ✨**JOSÉ IGNACIO**✨--->
 ### Sobre mí
 
 
