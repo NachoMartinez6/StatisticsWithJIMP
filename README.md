@@ -8,15 +8,15 @@ Soy Científico Marino por la Universidad de Alicante, con pasión por el mundo 
 
 🚀 **Habilidades:** PYTHON/ R/ OFFICE365 
 <br>
-- 🔭 Estoy trabajando en la **limpieza y exploración de los datos** para garantizar la **calidad del dato** en proyectos estadísticos. 
-- 🌱 Estoy aprendiendo: Analisis de datos, contraste de hipótesis, modelos predictivos... 
-- 👯 Quiero colaborar con empresas para **encontrar soluciones** a través del **análisis estadístico**. 
+- 🔭 Estoy trabajando en la **limpieza y exploración de los datos** para garantizar la **calidad del dato** en proyectos análiticos. 
+- 🌱 Actualmente aprendiendo: **Analisis de datos, contraste de hipótesis, modelos predictivos... **
+- 👯 Quiero colaborar con empresas para **generar valor** a través del **dato**. 
 - 📫 Cómo contactarme: nachomart6@gmail.com 
 <br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/StatisticsWithJIMP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Nachomart6/)  
 
-<!---
+<!--- encontrar soluciones- análisis estadístico
 StatisticsWithJIMP/StatisticsWithJIMP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
