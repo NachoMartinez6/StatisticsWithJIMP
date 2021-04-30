@@ -1,7 +1,7 @@
 # 👋 Hi, there!
 
 
-![Imagen](https://drive.google.com/drive/folders/1KcdnIPLr_qaq4biydmrks0TolRsvyR3f)
+![Imagen](https://github.com/StatisticsWithJIMP/PRUEBA/blob/main/Tarjeta_Est_Dark.png)
 I’m @StatisticsWithJIMP
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
