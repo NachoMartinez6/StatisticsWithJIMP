@@ -1,5 +1,5 @@
 # Hola Mundo! 👋
-## Soy ✨**JOSÉ IGNACIO**✨ y BIENVENIDO a mi Github!🎉
+## ✨Soy **JOSÉ IGNACIO** y BIENVENIDO a mi Github!✨
 ### Sobre mí
 
 
