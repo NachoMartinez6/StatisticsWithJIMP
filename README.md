@@ -1,6 +1,5 @@
 # Hola Mundo! 👋, 
 ## Mi nombre es ✨**JOSÉ IGNACIO**✨
-<br>
 ### ABOUT ME
 <br>
 Actualmente estoy centrado en el **análisis estadístico** para servir de mejor manera a la empresa a **tomar decisiones** en base a los **datos**. Trabajo fundamentalmente con Python y R. Así como otros programas enfocados a la comunicación y al periodismo de los datos.
