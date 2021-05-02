@@ -3,12 +3,12 @@
 ### About me
 
 
-I am a **Marine Scientist** from the University of Alicante, with  passion for the world of **analytics**. Currently I am focused on **statistical analysis** to **HELP** companies to **make decisions** based on **data**. I work mainly with **Python** and **R**. As well as other programs focused on **communication and data journalism**.
+I am a **Marine Scientist** from the University of Alicante, with  passion for the world of **analytics**. Currently I am focused on **statistical analysis** to **help** companies to **make decisions** based on **data**. I work mainly with **Python** and **R**. As well as other programs focused on **communication and data journalism**.
 <br>
 
 🚀 Skills: **PYTHON /R / OFFICE365 **
 <br>
-- 🔭 I am working on the **cleaning and exploration of the data** to guarantee the **quality of the data** in analytical projects.
+- 🔭 I am working on the **cleaning and exploration of the data** to guarantee their **quality** in analytical projects.
 - 🌱 Currently learning: **Data Analysis, Hypothesis Testing, Predictive Models ...**
 - 👯 I want to collaborate with companies to **generate value** through **data**.
 - 📫 How to contact me: **nachomart6@gmail.com**
