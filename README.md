@@ -3,7 +3,7 @@
 ### About me
 
 
-I am a **Marine Scientist** from the University of Alicante, with  passion for the world of **analytics**. Currently I am focused on **statistical analysis** to **help** companies to **make decisions** based on **data**. I work mainly with **Python** and **R**. As well as other programs focused on **communication and data journalism**.
+I am a **Marine Scientist** from the University of Alicante, with  passion for the world of **analytics**. Currently I am focused on **statistical analysis** to **help** companies to **make decisions** based on **data**. I work mainly with **Python, Power BI and SQL**. As well as other programs focused on **communication and data journalism**.
 <br>
 
 🚀 Skills: **PYTHON | POWER BI | SQL | ANACONDA ENVIRONMENT | OFFICE ENVIRONMENT**
