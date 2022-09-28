@@ -6,7 +6,7 @@
 I am a **Marine Scientist** from the University of Alicante, with  passion for the world of **analytics**. Currently I am focused on **statistical analysis** to **help** companies to **make decisions** based on **data**. I work mainly with **Python, Power BI and SQL**. As well as other programs focused on **communication and data journalism**.
 <br>
 
-🚀 Skills: **PYTHON | POWER BI | SQL | ANACONDA ENVIRONMENT | OFFICE ENVIRONMENT**
+🚀 Skills: **PYTHON | POWER BI | SQL (Oracle, Teradata...)| POWER CENTER | ANACONDA ENVIRONMENT | OFFICE ENVIRONMENT..**
 <br>
 - 🔭 I am working on the **cleaning and exploration of the data** to guarantee their **quality** in analytical projects.
 - 🌱 Currently learning: **Data Analysis, Hypothesis Testing, Predictive Models ...**
